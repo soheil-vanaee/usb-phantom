@@ -2,6 +2,13 @@
 
 USB Phantom is a tool that makes it easier to use the Digispark board. You can choose which script code you want to be displayed to you using the available options and choices.
 
+## install 
+```bash
+   git clone https://github.com/soheil-vanaee/usb-phantom.git
+   cd usb-phantom
+   python3 USB-Phantom.py
+```
+
 ## Usage
 
 ```bash
